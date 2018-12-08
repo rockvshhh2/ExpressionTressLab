@@ -1,4 +1,5 @@
 IQueryable<T> Extends
+  
 1. 
 根據查詢內容是否有% 符號來決定Like的方式 , 
 
